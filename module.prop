@@ -1,7 +1,7 @@
 id=mi5-headphone-fix
 name=Mi5 Headphone Volume Fix
-version=v2
-versionCode=2
+version=v3
+versionCode=3
 author=chhapil
-description=This mod loads the MIUI China sound files for better headphone volume 
+description=This mod loads the MIUI China ROM sound files for better headphone volume on Global ROM 
 template=1400
