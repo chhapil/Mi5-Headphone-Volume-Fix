@@ -1,11 +1,6 @@
-# Magisk Module Template
+# Mi5-headphone-fix
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+This mod loads the sound config of MIUI china version systemlessly to have
+better headphone volume.
 
-### README.md
-
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
-
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+This module has been  tested on Mi5 Global beta 7.9.7
