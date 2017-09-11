@@ -42,8 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "    Mi5-Headphone-Volume-Fix    "
-  ui_print "    created by Chhapil    "
+  ui_print "    Mi5 Headphone Volume Fix by Chhapil   "
   ui_print "*******************************"
 }
 
